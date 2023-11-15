@@ -31,7 +31,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn
 ## Usage
 To explore the analysis, run the Jupyter notebook:
 `
-jupyter notebook Final_Coursework_ML.ipynb
+jupyter notebook banking_churn_predictor.ipynb
 `
 
 ## Conclusion
