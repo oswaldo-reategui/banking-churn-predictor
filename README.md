@@ -4,7 +4,7 @@
 This repository contains my final coursework for an Applied Machine Learning course as part of my MSc. The project focuses on analyzing and predicting customer attrition in the banking sector using various machine learning models. This is a crucial business problem since retaining existing customers is more cost-effective than acquiring new ones. 
 
 ## Project Overview
-In this project, we:
+In this project, we will:
 - Analyze customer data from a bank to understand factors contributing to customer churn.
 - Develop and compare multiple machine learning models, including Logistic Regression, Decision Tree, Random Forest, and Gradient Boosting Classifier, to predict customer attrition.
 - Apply techniques like SMOTE for handling class imbalance and Grid Search for hyperparameter tuning to enhance model performance.
